@@ -1,4 +1,4 @@
-# Estrutura de Dados em Java
+# PADRÕES de PROJETO - 3º Período ADS 
 
 Repositório de atividades e projetos da disciplina de Padrões de Projeto em Java.
 
